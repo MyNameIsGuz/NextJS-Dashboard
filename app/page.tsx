@@ -48,7 +48,7 @@ export default function Page() {
         <Flex justify="center" align="center" className="p-6 md:w-full md:px-28 md:py-12">
           {/* Add Hero Images Here */}
           <Image
-            src="/hero.png"
+            src="/hero-desktop.png"
             width={1280}
             height={720}
             alt="Screenshots of the dashboard project showing desktop version"
